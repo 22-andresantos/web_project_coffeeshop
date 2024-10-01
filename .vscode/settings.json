@@ -20,5 +20,14 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "cSpell.language": "en,pt-BR,pt",
-  "cSpell.words": ["Burbidge", "Contatos", "recepção", "Tripleten"]
+  "cSpell.words": [
+    "Aeropress",
+    "Burbidge",
+    "Contatos",
+    "energizar",
+    "lanchinho",
+    "recepção",
+    "shrekophone",
+    "Tripleten"
+  ]
 }
