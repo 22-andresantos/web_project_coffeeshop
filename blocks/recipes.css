@@ -9,6 +9,10 @@
   padding-bottom: 215px;
 }
 
+.shrekophone {
+  border: none;
+}
+
 .recipes__title {
   max-width: 580px;
   font-family: "Inter";
